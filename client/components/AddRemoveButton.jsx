@@ -19,7 +19,7 @@ const AddRemoveButton = ({ type, onClick }) => {
       onClick={onClick}
       aria-label={alt}
     >
-      <Icon focusable="false" aria-hidden="true" />
+     <Icon focusable="false" aria-hidden="true" />
     </button>
   );
 };
